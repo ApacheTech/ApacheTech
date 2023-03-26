@@ -9,6 +9,7 @@
 
 **APIs, Libraries, and Packages**
  * [Nuget Packages](https://github.com/orgs/ApacheTech-Nuget-Packages/repositories): A collection of repositories that are available as Nuget Packages, from nuget.org.
+ * [NPM Packages](https://github.com/orgs/ApacheTech-NPM-Packages/repositories): A collection of repositories that are available as NPM Packages, from npmjs.com.
 
 **Supplimental / Archive**
  * [Forked Repos](https://github.com/orgs/ApacheTech-Forked-Repos/repositories): Repos that have been forked from other users; be it for reference, or pull requests.
