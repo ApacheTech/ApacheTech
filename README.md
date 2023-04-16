@@ -1,9 +1,12 @@
 # Repository Folders
 
 **Educational Courses**
- * [CodeNation: Master Coding](https://github.com/orgs/M46-CodeNation/repositories): Coursework submission for Master Software Development course; run by CodeNation. Spring/Summer 2023.
- * [JavaScript Simplified](https://github.com/PCM-JavaScript-Simplified/repositories): Coursework submission for JavaScript Simplified course; run by Kyle Cook. Spring/Summer 2023.
- * [CSS Demystified](https://github.com/PCM-CSS-Demystified/repositories): Coursework submission for CSS Demystified course, run by Kevin Powell. Spring/Summer 2023.
+
+These repositories contain coursework submission for various online courses I have undertaken.
+
+ * [Master: Software Development](https://github.com/orgs/M46-CodeNation/repositories), run by CodeNation. Spring/Summer 2023.
+ * [JavaScript Simplified](https://github.com/PCM-JavaScript-Simplified/repositories), run by Kyle Cook. Spring/Summer 2023.
+ * [CSS Demystified](https://github.com/PCM-CSS-Demystified/repositories), run by Kevin Powell. Spring/Summer 2023.
 
 **Game Modification**
  * [Vintage Story Mods](https://github.com/orgs/ApacheTech-VintageStory-Mods/repositories): Mods created for Vintage Story; a game by Anego Studios.
