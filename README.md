@@ -1,7 +1,9 @@
 # Repository Folders
 
 **Educational Courses**
- * [CodeNation: Master Coding](https://github.com/orgs/PCM-M46-CodeNation/repositories): Coursework submission for CodeNation course; Master Coding: Software Development. Spring/Summer 2023.
+ * [CodeNation: Master Coding](https://github.com/orgs/M46-CodeNation/repositories): Coursework submission for CodeNation course; Master Coding: Software Development. Spring/Summer 2023.
+ * [JavaScript Simplified](https://github.com/PCM-JavaScript-Simplified/repositories): Coursework submission for WebDev Simplified course; JavaScript Simplified. Spring/Summer 2023.
+ * [CSS Demystified](https://github.com/PCM-CSS-Demystified/repositories): Coursework submission for WebDev Simplified course; JavaScript Simplified. Spring/Summer 2023.
 
 **Game Modification**
  * [Vintage Story Mods](https://github.com/orgs/ApacheTech-VintageStory-Mods/repositories): Mods created for Vintage Story; a game by Anego Studios.
