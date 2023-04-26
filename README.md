@@ -4,7 +4,7 @@
 
 These repositories contain coursework submission for various online courses I have undertaken.
 
- * [Master: Software Development](https://github.com/orgs/PCM-M46-CodeNation/repositories), run by CodeNation. Spring/Summer 2023.
+ * [Master: Software Development](https://github.com/orgs/PCM-M46-Coursework/repositories), run by CodeNation. Spring/Summer 2023.
  * [JavaScript Simplified](https://github.com/PCM-JavaScript-Simplified/repositories), run by Kyle Cook. Spring/Summer 2023.
  * [CSS Demystified](https://github.com/PCM-CSS-Demystified/repositories), run by Kevin Powell. Spring/Summer 2023.
 
