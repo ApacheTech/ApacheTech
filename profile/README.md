@@ -1,4 +1,4 @@
-![ApacheTech Logo](ApacheTech.png)
+![ApacheTech Logo](assets/ApacheTech.png)
 
 # Repository Folders
 
