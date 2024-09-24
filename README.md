@@ -1,11 +1,13 @@
-![ApacheTech Logo](assets/ApacheTech.png)
+![ApacheTech Logo](/profile/ApacheTech.png)
 
 # Repository Folders
+
+**Main Profile**
+ * [ApacheTech](https://github.com/orgs/ApacheTech-VintageStory-Mods/repositories): My main GitHub profile.
 
 **Educational Courses**
 
 These repositories contain coursework submission for various online courses I have undertaken.
-
  * [Master: Software Development](https://github.com/orgs/PCM-M46-Coursework/repositories), run by CodeNation. Spring/Summer 2023.
 
 **Game Modification**
