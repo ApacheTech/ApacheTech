@@ -2,8 +2,8 @@
 
 # Repository Folders
 
-**Main Profile**
- * [ApacheTech](https://github.com/orgs/ApacheTech-VintageStory-Mods/repositories): My main GitHub profile.
+**General Links**
+ * [ApacheTech GitHub Profile](https://github.com/ApacheTech): My main GitHub profile.
 
 **Educational Courses**
 
